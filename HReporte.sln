@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "HReporte", "HReporte\HReporte.rptproj", "{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}.Debug|Default.ActiveCfg = Debug
+		{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}.Debug|Default.Build.0 = Debug
+		{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}.Debug|Default.Deploy.0 = Debug
+		{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}.DebugLocal|Default.Build.0 = DebugLocal
+		{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}.Release|Default.ActiveCfg = Release
+		{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}.Release|Default.Build.0 = Release
+		{3CFE9301-16B5-4E35-A712-3F8CE1DF52FE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
